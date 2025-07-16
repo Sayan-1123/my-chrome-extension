@@ -1,0 +1,31 @@
+# System files (WindowDesktop.ini
+
+# macOS system files (optional if you ever use macOS)
+
+.DS_Store
+
+# Log files
+
+\*.log
+
+# Build output (if using any build tools)
+
+dist/s)
+
+Thumbs.db
+
+build/
+
+# Node dependencies (if you add Node.js tools later)
+
+node_modules/
+
+# Environment variable files
+
+.env
+.env.local
+.env.\*.local
+
+# VS Code settings (optional to ignore per-user settings)
+
+.vscode/
